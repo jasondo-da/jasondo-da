@@ -20,6 +20,6 @@ University of Redlands | B.S. in Business | GPA: 3.637
 
 ## Contact Information
 
-LinkedIn: [@jasondo](https://www.linkedin.com/in/jasonado/)
+LinkedIn: [@jasonado](https://www.linkedin.com/in/jasonado/)
 
 E-Mail: [Jasondo082@yahoo.com](Jasondo082@yahoo.com)
