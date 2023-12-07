@@ -1,4 +1,4 @@
-# Jason Do - Data Analysis Portfolio
+# Jason Do
 
 ## About
 
@@ -9,9 +9,7 @@ During my coding boot camp, I learned the technical skills to analyze and work w
 
 My TripleTen project [portfolio](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/README.md).
 
-My resume in [pdf](https://github.com/jasondo-da/data_analysis_portfolio/blob/main/resume_23.pdf).
-
-
+My resume in [pdf](https://github.com/jasondo-da/jason-do/blob/main/resume_23.pdf).
 
 
 ## Education
