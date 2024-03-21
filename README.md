@@ -7,7 +7,7 @@ Hi, I am Jason! I have a business and service background and hold a Bachelor of 
 
 My TripleTen project [portfolio](https://github.com/jasondo-da/tripleten_project_portfolio/blob/main/README.md).
 
-My resume in [pdf](https://github.com/jasondo-da/jason-do/blob/main/resume_23.pdf).
+My resume in [pdf](https://github.com/jasondo-da/jason-do/blob/main/Resume%20v.rl%20(2024).pdf).
 
 
 ## Education
