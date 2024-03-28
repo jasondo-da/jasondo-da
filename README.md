@@ -9,15 +9,7 @@ My resume in [pdf](https://github.com/jasondo-da/jason-do/blob/main/Resume%20v.r
 
 ## Skills
 
-• SQL 
-
-• Python (Pandas, NumPy) 
-
-• MS Excel, Google Sheets 
-
-• Tableau
-
-• Visualization and presentations (Matplotlib, Seaborn, Plotly)
+SQL | Python (Pandas, NumPy) | MS Excel | Google Sheets | Tableau | Visualization and presentations (Matplotlib, Seaborn, Plotly)
 
 ## Education
 
