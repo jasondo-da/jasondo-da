@@ -7,6 +7,13 @@ My TripleTen project [portfolio](https://github.com/jasondo-da/tripleten_project
 
 My resume in [pdf](https://github.com/jasondo-da/jason-do/blob/main/Resume%20v.rl%20(2024).pdf).
 
+## Skills
+
+• SQL 
+• Python (Pandas, NumPy) 
+• MS Excel, Google Sheets 
+• Tableau
+• Visualization and presentations (Matplotlib, Seaborn, Plotly)
 
 ## Education
 
