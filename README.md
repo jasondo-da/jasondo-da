@@ -25,6 +25,8 @@ University of Redlands | B.S. in Business | GPA: 3.637
 
 ## :mailbox_with_mail: Contact Information
 
+Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01304e3a882d86c96f?mp_source=share)
+
 LinkedIn: [@jasonado](https://www.linkedin.com/in/jasonado/)
 
 E-Mail: [Jasondo082@yahoo.com](Jasondo082@yahoo.com)
