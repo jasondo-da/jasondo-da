@@ -13,7 +13,7 @@ Resume in [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(202
 
 ## :computer: Skills
 
-SQL | Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) | MS Excel | Google Sheets | Tableau | Power BI (in process)
+SQL | Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) | MS Excel | Google Sheets | Tableau | Looker Studio
 
 
 ## :mortar_board: Education
