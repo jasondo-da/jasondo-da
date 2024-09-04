@@ -16,11 +16,13 @@ Resume in [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(202
 SQL | Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) | MS Excel | Google Sheets | Tableau | Looker Studio
 
 
-## :mortar_board: Education
+## :mortar_board: Education & Professional Development
 
-TripleTen School of Data Science | Data Analyst Program 
+University of Redlands | B.S. in Business | GPA: 3.637
 
-University of Redlands | B.S. in Business | GPA: 3.637 
+TripleTen School of Data Science | Data Analytics Professional Training Program Certificate of Completion
+
+Coursera Online | IBM Data Analyst Professional Certificate
 
 
 ## :mailbox_with_mail: Contact Information
