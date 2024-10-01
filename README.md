@@ -8,7 +8,7 @@ Hi, I am Jason! I have a business and service background and hold a Bachelor of 
 
 Full Data Analyst [Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md)
 
-Resume in [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2024).pdf)
+Resume in [PDF]([https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2024).pdf](https://github.com/jasondo-da/jasondo-da/blob/main/Resume.pdf))
 
 
 ## :computer: Skills
