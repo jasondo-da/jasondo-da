@@ -8,11 +8,12 @@
 [![Freelance Data Analyst](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.upwork.com/freelancers/~01304e3a882d86c96f?mp_source=share)
 
 
-Hi, I'm Jason! I’m an experienced data analyst with a background in business from the University of Redlands and data analytics from the TripleTen Bootcamp. I am on an ongoing journey to develop my analysis skills, prioritizing hands-on experience and skill development.
+Hi, I'm Jason! I’m an experienced data analyst with a background in business from the University of Redlands and a recent graduate from the TripleTen Bootcamp. I am eagerly looking forward to launching my career in the field of data science as a data analyst. As a business and data analyst student, I gained practical experience in data analysis, statistics analysis, data visualization, and machine learning. I have become proficient in popular Python libraries like Pandas, NumPy, SciPy, Scikit-learn, BeautifulSoup, Matplotlib, Seaborn, SQLite3, Folium, and GeoPy. Other areas of proficiency include SQL, Tableau, Google Sheets, and Looker Studio demonstrated in 10 technical projects that can be viewed on my GitHub project portfolio.
 
-Through the TripleTen Coding Bootcamp, I have developed practical mastery in data and statistical analysis, machine learning, and data visualization. I have become proficient in popular Python libraries like Pandas, NumPy, SciPy, Scikit-learn, BeautifulSoup, Matplotlib, Seaborn, SQLite3, Folium, and GeoPy. Other areas of proficiency include SQL, Tableau, Google Sheets, and Looker Studio demonstrated in 10 technical projects that can be viewed on my GitHub project portfolio.
+In addition to my data science background, I offer valuable experiences from my previous role in the service industry. Customer service experience has given me a strong foundation in crucial skills like adaptability in fast environments, effective communication, organizational structure, teamwork, and time management.
 
 I am passionate about data analysis and applying my knowledge by exploring unique datasets and observations to optimize business decisions. I'm highly motivated to continue expanding my technical skills and expertise in data science, applying my analytical abilities to solve real-world problems and deliver meaningful insights.
+
 
 Beyond my professional interests, I enjoy hobbies like hiking, basketball, line art, and anime. I am mostly a homebody but can also appreciate nature and the outdoors.
 
@@ -52,7 +53,7 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 
 Coursera Online | IBM Data Analyst Professional Certificate
 
-## Github Stats
+## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-jasondo-da&color=blue)
 
