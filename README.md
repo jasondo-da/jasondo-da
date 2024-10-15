@@ -2,7 +2,7 @@
 
 ![ghb](https://github.com/jasondo-da/jasondo-da/assets/138195365/5ba97cd1-633f-4441-9df3-822aa16d3364)
 
-[![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Jasondo082@yahoo.com)
+[![E-Mail](https://img.shields.io/badge/Jasondo082%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jasondo082@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonado/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasondo-da)
 [![Freelance Data Analyst](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.upwork.com/freelancers/~01304e3a882d86c96f?mp_source=share)
@@ -22,7 +22,7 @@ I am open to networking and collaborating on any interesting projects, please fe
 
 Full Data Analyst [Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md)
 
-Resume in [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume.pdf)
+Resume as [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume.pdf)
 
 
 ## :computer: Languages and Tools:
