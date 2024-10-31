@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio! :wave: This is Jason Do
+# I'm Jason and welcome to my GitHub Portfolio! :wave:
 
 ![ghb](https://github.com/jasondo-da/jasondo-da/assets/138195365/5ba97cd1-633f-4441-9df3-822aa16d3364)
 
@@ -22,7 +22,7 @@ I am open to networking and collaborating on any interesting projects, please fe
 
 Full Data Analyst [Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md)
 
-Resume as [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume.pdf)
+Resume [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2024).pdf)
 
 
 ## :computer: Languages and Tools:
