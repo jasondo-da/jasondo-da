@@ -2,6 +2,7 @@
 
 ![ghb](https://github.com/jasondo-da/jasondo-da/assets/138195365/5ba97cd1-633f-4441-9df3-822aa16d3364)
 
+
 [![E-Mail](https://img.shields.io/badge/Jasondo082%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jasondo082@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonado/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasondo-da)
@@ -20,9 +21,18 @@ Beyond my professional interests, I enjoy hobbies like hiking, basketball, line 
 I am open to networking and collaborating on any interesting projects, please feel free to reach out for any open opportunities!
 
 
-Full Data Analyst [Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md)
+Full [Data Analyst Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md)
 
 Resume [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2024).pdf)
+
+
+## :mortar_board: Education & Professional Development
+
+University of Redlands | B.S. in Business | GPA: 3.637
+
+TripleTen School of Data Science | Data Analytics Professional Training Program Certificate of Completion
+
+Coursera | IBM Data Analyst Professional Certificate
 
 
 ## :computer: Languages and Tools:
@@ -45,17 +55,13 @@ Resume [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2024).
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-white?style=for-the-badge&logo=Looker)
 
-## :mortar_board: Education & Professional Development
 
-University of Redlands | B.S. in Business | GPA: 3.637
-
-TripleTen School of Data Science | Data Analytics Professional Training Program Certificate of Completion
-
-Coursera Online | IBM Data Analyst Professional Certificate
-
-## GitHub Stats
+## :bar_chart: GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-jasondo-da&color=blue)
 
-[![Jasons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasondo-da&show_icons=true&theme=algolia))](https://github.com/jasondo-da/github-readme-stats)
+![Jasons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 
+![Jasons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasondo-da&theme=algolia&hide_border=false)
+
+![Jasons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&layout=compact)
