@@ -1,4 +1,4 @@
-# I'm Jason and welcome to my GitHub Portfolio! :wave:
+# I'm Jason and Welcome to my GitHub Portfolio! :wave:
 
 ![ghb](https://github.com/jasondo-da/jasondo-da/assets/138195365/5ba97cd1-633f-4441-9df3-822aa16d3364)
 
