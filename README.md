@@ -26,13 +26,21 @@ Full [Data Analyst Project Portfolio](https://github.com/jasondo-da/Data_Analyst
 Resume [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2024).pdf)
 
 
-## :mortar_board: Education & Professional Development
+## :mortar_board: Education
 
 University of Redlands | B.S. in Business | GPA: 3.637
 
-TripleTen School of Data Science | Data Analytics Professional Training Program Certificate of Completion
+TripleTen School of Data Science | Data Analytics Professional Training Program [Certificate of Completion](https://github.com/jasondo-da/jasondo-da/blob/main/tripleten_certificate.pdf)
 
-Coursera | IBM Data Analyst Professional Certificate
+## :white_check_mark: Certifications & Licenses
+
+Tableau | Tableau Desktop Specialist [Certification]()
+
+Coursera | IBM Data Analyst Professional [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/IBM%20Data%20Analyst%20(Coursera%20J99MG4W5H48M).pdf)
+
+Google | Google Analytics for Beginners [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/google_a_certificate.pdf)
+
+SolidWorks | Associate Mechanical Design [Certification](https://github.com/jasondo-da/jasondo-da/blob/main/SolidWorks%20Mech%20Design%20(Certificate_C-9QY5YN4YNC).pdf)
 
 
 ## :computer: Languages and Tools:
