@@ -23,7 +23,7 @@ I am open to networking and collaborating on any interesting projects, please fe
 
 Full [Data Analyst Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md)
 
-Resume [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2024).pdf)
+Resume [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2025).pdf)
 
 
 ## :mortar_board: Education
@@ -34,7 +34,7 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 
 ## :white_check_mark: Certifications & Licenses
 
-Tableau | Tableau Desktop Specialist [Certification]()
+Tableau | Tableau Desktop Specialist [Certification](https://www.credly.com/earner/earned/badge/7acacc89-8416-4a89-a01a-9a93002a3d38)
 
 Coursera | IBM Data Analyst Professional [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/IBM%20Data%20Analyst%20(Coursera%20J99MG4W5H48M).pdf)
 
