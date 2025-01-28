@@ -30,38 +30,30 @@ Resume [PDF](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2025).
 
 University of Redlands | B.S. in Business | GPA: 3.637
 
-TripleTen School of Data Science | Data Analytics Professional Training Program [Certificate of Completion](https://github.com/jasondo-da/jasondo-da/blob/main/tripleten_certificate.pdf)
+TripleTen School of Data Science | Data Analytics Professional Training Program [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/tripleten_certificate.pdf)
 
 ## :white_check_mark: Certifications & Licenses
 
-Tableau | Tableau Desktop Specialist [Certification](https://www.credly.com/earner/earned/badge/7acacc89-8416-4a89-a01a-9a93002a3d38)
-
-Coursera | IBM Data Analyst Professional [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/IBM%20Data%20Analyst%20(Coursera%20J99MG4W5H48M).pdf)
-
-Google | Google Analytics for Beginners [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/google_a_certificate.pdf)
-
-SolidWorks | Associate Mechanical Design [Certification](https://github.com/jasondo-da/jasondo-da/blob/main/SolidWorks%20Mech%20Design%20(Certificate_C-9QY5YN4YNC).pdf)
+| Issuing Organization | Title | Credential Link |
+| :--------- | :--------- | :--------- |
+| Tableau | Tableau Desktop Specialist | [Certification](https://www.credly.com/badges/7acacc89-8416-4a89-a01a-9a93002a3d38/public_url) |
+| IBM | IBM Data Analyst Professional | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/IBM%20Data%20Analyst%20(Coursera%20J99MG4W5H48M).pdf) |
+| Google | Google Analytics for Beginners | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/google_a_certificate.pdf) |
+| Dassault Systèmes | Associate Mechanical Design | [Certification](https://github.com/jasondo-da/jasondo-da/blob/main/SolidWorks%20Mech%20Design%20(Certificate_C-9QY5YN4YNC).pdf) |
 
 
 ## :computer: Languages and Tools:
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![GeoPy](https://img.shields.io/badge/GeoPy-%236a5acd?style=for-the-badge)](https://geopy.readthedocs.io/en/stable/)
-[![Folium](https://img.shields.io/badge/Folium-%2377B829?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/latest/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![seaborn](https://img.shields.io/badge/Seaborn-%09%23191970?style=for-the-badge)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://docs.python.org/3/library/sqlite3.html)
-![SQL](https://img.shields.io/badge/SQL-%236495ed?style=for-the-badge)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-white?style=for-the-badge&logo=googlesheets)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-white?style=for-the-badge&logo=Looker)
+|  | Documentation |
+| :--------- | :--------- |
+| Languages | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) ![SQL](https://img.shields.io/badge/SQL-%236495ed?style=for-the-badge) |
+| Database Management | [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://docs.python.org/3/library/sqlite3.html) |
+| Spreadsheets | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-white?style=for-the-badge&logo=googlesheets) |
+| Data Visualization | [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-white?style=for-the-badge&logo=Looker) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![seaborn](https://img.shields.io/badge/Seaborn-%09%23191970?style=for-the-badge)](https://seaborn.pydata.org/) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)|
+| Machine Learning | [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) |
+| Geographic Information Systems | [![GeoPy](https://img.shields.io/badge/GeoPy-%236a5acd?style=for-the-badge)](https://geopy.readthedocs.io/en/stable/) [![Folium](https://img.shields.io/badge/Folium-%2377B829?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/latest/) |
+| Web Scrapping | [![Requests](https://img.shields.io/badge/requests-grey?style=for-the-badge)](https://requests.readthedocs.io/en/latest/) [![Beautiful Soup](https://img.shields.io/badge/beautiful_soup-blue?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)|
+
 
 
 ## :bar_chart: GitHub Stats
