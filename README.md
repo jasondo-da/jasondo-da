@@ -60,7 +60,7 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-jasondo-da&color=blue)
 
-![Jasons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&count_private=true' />
 
 ![Jasons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasondo-da&theme=algolia&hide_border=false)
 
