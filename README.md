@@ -62,6 +62,8 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&count_private=true' />
 
-![Jasons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasondo-da&theme=algolia&hide_border=false)
-
 ![Jasons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+
+<br clear="left"/>
+
+![Jasons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasondo-da&theme=algolia&hide_border=false)
