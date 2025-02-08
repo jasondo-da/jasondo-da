@@ -60,10 +60,8 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-jasondo-da&color=blue)
 
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&count_private=true' />
+<img alt='GitHub Stats' align='left' width='40%' src='https://github-readme-stats.vercel.app/api?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&count_private=true'/>
 
-![Jasons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+<img alt='Top Languages' align='left' width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jasondo-da&theme=algolia&show_icons=true&hide_border=false&layout=compact'/>
 
-<br clear="left"/>
-
-![Jasons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasondo-da&theme=algolia&hide_border=false)
+<img alt='GitHub Streak' align='left' width='40%' src='https://github-readme-streak-stats.herokuapp.com/?user=jasondo-da&theme=algolia&hide_border=false'>
