@@ -1,7 +1,6 @@
-# I'm Jason and Welcome to my GitHub Portfolio! :wave:
+# Hi! I'm Jason and Welcome to my GitHub Portfolio! :wave:
 
-![ghb](https://github.com/jasondo-da/jasondo-da/assets/138195365/5ba97cd1-633f-4441-9df3-822aa16d3364)
-
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/0442f95d-b725-4705-b3f9-799f732a4e60)
 
 [![E-Mail](https://img.shields.io/badge/Jasondo082%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jasondo082@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonado/)
@@ -9,16 +8,15 @@
 [![Freelance Data Analyst](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.upwork.com/freelancers/~01304e3a882d86c96f?mp_source=share)
 
 
-Hi, I'm Jason! I’m an experienced data analyst with a background in business from the University of Redlands and a recent graduate from the TripleTen Bootcamp. I am eagerly looking forward to launching my career in the field of data science as a data analyst. As a business and data analyst student, I gained practical experience in data analysis, statistics analysis, data visualization, and machine learning. I have become proficient in popular Python libraries like Pandas, NumPy, SciPy, Scikit-learn, BeautifulSoup, Matplotlib, Seaborn, SQLite3, Folium, and GeoPy. Other areas of proficiency include SQL, Tableau, Google Sheets, and Looker Studio demonstrated in 10 technical projects that can be viewed on my GitHub project portfolio.
+Hi, I'm Jason! I’m an experienced freelance data analyst with a background in business from the University of Redlands and a graduate of the TripleTen coding bootcamp. I am dedicated to continuously refining my skills in the field of data science as a data analyst. 
 
-In addition to my data science background, I offer valuable experiences from my previous role in the service industry. Customer service experience has given me a strong foundation in crucial skills like adaptability in fast environments, effective communication, organizational structure, teamwork, and time management.
+During the TripleTen bootcamp, I developed a strong foundation using SQL, Google Sheets, Python, and Tableau to become a freelance data analyst. As a freelance data analyst, I specialize in processing raw data into a usable format, problem-solving through descriptive and prescriptive analyses, and data visualization through reports and dashboards using tools like Tableau, Excel, and Google Sheets. Additionally, I have become proficient in popular Python libraries like Pandas, NumPy, SciPy, Scikit-learn, BeautifulSoup, Matplotlib, Seaborn, SQLite3, Folium, and GeoPy. Through my development, I have also been certified by Tableau with the Tableau Desktop Specialist certification to be professionally authorized to use their desktop business intelligence software. Samples of my technical skills are represented within 10+ projects that are viewable on my GitHub project portfolio.
 
 I am passionate about data analysis and applying my knowledge by exploring unique datasets and observations to optimize business decisions. I'm highly motivated to continue expanding my technical skills and expertise in data science, applying my analytical abilities to solve real-world problems and deliver meaningful insights.
 
+Beyond my professional interests, I enjoy hobbies like hiking, basketball, line art, and anime. I am mostly a homebody, but can also appreciate a day in nature and the outdoors.
 
-Beyond my professional interests, I enjoy hobbies like hiking, basketball, line art, and anime. I am mostly a homebody but can also appreciate nature and the outdoors.
-
-I am open to networking and collaborating on any interesting projects, please feel free to reach out for any open opportunities!
+I am open to networking, new roles, and collaborating on interesting projects, please feel free to reach out with any questions or open opportunities!
 
 
 Full [Data Analyst Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md)
