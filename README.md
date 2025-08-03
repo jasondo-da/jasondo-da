@@ -25,7 +25,7 @@ University of Redlands | B.S. in Business | GPA: 3.637
 TripleTen School of Data Science | Data Analytics Professional Training Program [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/tripleten_certificate.pdf)
 
 
-## :man_technologist: What I Do:
+## :man_technologist: Core Competencies
 
 - Clean and prepare raw datasets for analysis
 
@@ -49,9 +49,9 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 | Dassault Systèmes | Associate Mechanical Design | [Certification](https://github.com/jasondo-da/jasondo-da/blob/main/SolidWorks%20Mech%20Design%20(Certificate_C-9QY5YN4YNC).pdf) |
 
 
-## :computer: Tools & Technologies:
+## :computer: Tools & Technologies
 
-|  | Documentation |
+| Tools & Technologies | Documentation |
 | :--------- | :--------- |
 | Languages | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) ![SQL](https://img.shields.io/badge/SQL-%236495ed?style=for-the-badge) |
 | Database Management Tools | [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://docs.python.org/3/library/sqlite3.html) |
