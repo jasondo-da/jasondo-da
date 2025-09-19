@@ -2,12 +2,13 @@
 
 ![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/0442f95d-b725-4705-b3f9-799f732a4e60)
 
-[![E-Mail](https://img.shields.io/badge/Jasondo082%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jasondo082@yahoo.com)
+
+[![E-Mail](https://img.shields.io/badge/Jasondo082%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jason.d.analytics@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonado/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasondo-da)
 [![Freelance Data Analyst](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.upwork.com/freelancers/~01304e3a882d86c96f?mp_source=share)
 
-Data Analyst | Excel | Python | SQL | Tableau Certified | Alteryx Designer Core Certified | TripleTen
+Data Analyst | Excel | Python | SQL | Tableau Certified | Alteryx Certified | TripleTen
 
 I’m a data analyst with a background in business from the University of Redlands and a graduate of the TripleTen coding bootcamp. I specialize in transforming raw data into actionable insights through descriptive and prescriptive analysis, and I’m passionate about using data to solve real-world business problems.
 
@@ -40,13 +41,13 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 
 ## :white_check_mark: Certifications & Licenses
 
-| Issuing Organization | Title | Credential Link |
-| :--------- | :--------- | :--------- |
-| Tableau | Tableau Desktop Specialist | [Certification](https://www.credly.com/badges/7acacc89-8416-4a89-a01a-9a93002a3d38/public_url) |
-| Alteryx | Alteryx Designer Core Certified | [Certification](https://www.credly.com/badges/812da646-46ba-449b-adcd-9133fefa85ec/public_url) |
-| IBM | IBM Data Analyst Professional | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/IBM%20Data%20Analyst%20(Coursera%20J99MG4W5H48M).pdf) |
-| Google | Google Analytics for Beginners | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/google_a_certificate.pdf) |
-| Dassault Systèmes | Associate Mechanical Design | [Certification](https://github.com/jasondo-da/jasondo-da/blob/main/SolidWorks%20Mech%20Design%20(Certificate_C-9QY5YN4YNC).pdf) |
+| Issuing Organization | Title | Issue Date | Expiration Date | Credential Link |
+| :--------- | :--------- | :--------- | :--------- | :--------- |
+| Tableau | Tableau Desktop Specialist | Dec 2024 | --- | [Certification](https://www.credly.com/badges/7acacc89-8416-4a89-a01a-9a93002a3d38/public_url) |
+| Alteryx | Alteryx Designer Core Certified | Aug 2025 | Aug 2027 | [Certification](https://www.credly.com/badges/812da646-46ba-449b-adcd-9133fefa85ec/public_url) |
+| IBM | IBM Data Analyst Professional | Aug 2024 | --- | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/IBM%20Data%20Analyst%20(Coursera%20J99MG4W5H48M).pdf) |
+| Google | Google Analytics for Beginners | Dec 2022 | Dec 2025 | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/google_a_certificate.pdf) |
+| Dassault Systèmes | Associate Mechanical Design | Apr 2016 | --- | [Certification](https://github.com/jasondo-da/jasondo-da/blob/main/SolidWorks%20Mech%20Design%20(Certificate_C-9QY5YN4YNC).pdf) |
 
 
 ## :computer: Tools & Technologies
@@ -57,7 +58,7 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 | Database Management Tools | [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://docs.python.org/3/library/sqlite3.html) |
 | Spreadsheet Tools | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-white?style=for-the-badge&logo=googlesheets) |
 | Data Analysis Tools | ![Static Badge](https://img.shields.io/badge/alteryx-%230078C0?style=for-the-badge) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/) [![yfinance](https://img.shields.io/badge/yfinance-purple?style=for-the-badge)](https://ranaroussi.github.io/yfinance/)|
-| Data Visualization Tools | [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-white?style=for-the-badge&logo=Looker) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![seaborn](https://img.shields.io/badge/Seaborn-%09%23191970?style=for-the-badge)](https://seaborn.pydata.org/) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)|
+| Data Visualization Tools | [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![seaborn](https://img.shields.io/badge/Seaborn-%09%23191970?style=for-the-badge)](https://seaborn.pydata.org/) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)|
 | Machine Learning Tools | [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) |
 | Geographic Information Systems Tools | [![GeoPy](https://img.shields.io/badge/GeoPy-%236a5acd?style=for-the-badge)](https://geopy.readthedocs.io/en/stable/) [![Folium](https://img.shields.io/badge/Folium-%2377B829?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/latest/) |
 | Web Scraping Tools | [![Requests](https://img.shields.io/badge/requests-grey?style=for-the-badge)](https://requests.readthedocs.io/en/latest/) [![Beautiful Soup](https://img.shields.io/badge/beautiful_soup-blue?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)|
