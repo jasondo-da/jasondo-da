@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Jason and Welcome to my GitHub Portfolio!
 
-![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/0442f95d-b725-4705-b3f9-799f732a4e60)
+<img width="1584" height="396" alt="Black and White Illustrative Linkedin Banner" src="https://github.com/user-attachments/assets/e2e265fa-b946-4cc7-8683-751385181d0e" />
 
 
-[![E-Mail](https://img.shields.io/badge/Jasondo082%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jason.d.analytics@gmail.com)
+[![E-Mail](https://img.shields.io/badge/Jasondo.analytics%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jasondo.analytics@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonado/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasondo-da)
 [![Freelance Data Analyst](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.upwork.com/freelancers/~01304e3a882d86c96f?mp_source=share)
