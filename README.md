@@ -45,9 +45,9 @@ TripleTen School of Data Science | Data Analytics Professional Training Program 
 | :--------- | :--------- | :--------- | :--------- | :--------- |
 | Tableau | Tableau Desktop Specialist | Dec 2024 | --- | [Certification](https://www.credly.com/badges/7acacc89-8416-4a89-a01a-9a93002a3d38/public_url) |
 | Alteryx | Alteryx Designer Core Certified | Aug 2025 | Aug 2027 | [Certification](https://www.credly.com/badges/812da646-46ba-449b-adcd-9133fefa85ec/public_url) |
-| IBM | IBM Data Analyst Professional | Aug 2024 | --- | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/IBM%20Data%20Analyst%20(Coursera%20J99MG4W5H48M).pdf) |
+| IBM | IBM Data Analyst Professional Certificate | Aug 2024 | --- | [Certificate](https://www.credly.com/badges/8216ac31-9d71-4681-b184-d8e389d92ad8/public_url) |
 | Google | Google Analytics for Beginners | Dec 2022 | Dec 2025 | [Certificate](https://github.com/jasondo-da/jasondo-da/blob/main/google_a_certificate.pdf) |
-| Dassault Systèmes | Associate Mechanical Design | Apr 2016 | --- | [Certification](https://github.com/jasondo-da/jasondo-da/blob/main/SolidWorks%20Mech%20Design%20(Certificate_C-9QY5YN4YNC).pdf) |
+| Dassault Systèmes | Certified SOLIDWORKS Design Associate | Apr 2016 | --- | [Certification](https://www.credly.com/badges/f09b7df8-6949-400c-9637-5e62cedd0cfa/public_url) |
 
 
 ## :computer: Tools & Technologies
