@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasondo-da)
 [![Freelance Data Analyst](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.upwork.com/freelancers/~01304e3a882d86c96f?mp_source=share)
 
-Data Analyst | Excel | Python | SQL | Tableau Certified | Alteryx Certified | TripleTen
+**Data Analyst | Excel | Python | SQL | Tableau Certified | Alteryx Certified | TripleTen**
 
 I’m a data analyst with a background in business from the University of Redlands and a graduate of the TripleTen coding bootcamp. I specialize in transforming raw data into actionable insights through descriptive and prescriptive analysis, and I’m passionate about using data to solve real-world business problems.
 
@@ -16,7 +16,7 @@ I’m continuously developing my technical skills and expanding my expertise in 
 
 I’ve completed 10+ data analysis projects covering areas such as customer segmentation, marketing analytics, financial performance, A/B testing, and geographic analysis.
 
-➡️ Check out my full [Data Analyst Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md) and [Resume](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2025).pdf) for full project details, code, and visualizations.
+➡️ Check out my full [Data Analyst Project Portfolio](https://github.com/jasondo-da/Data_Analyst_Portfolio_Guide/blob/main/README.md) and [Resume](https://github.com/jasondo-da/jasondo-da/blob/main/Resume%20(2026).pdf) for full project details, code, and visualizations.
 
 
 ## :mortar_board: Education
